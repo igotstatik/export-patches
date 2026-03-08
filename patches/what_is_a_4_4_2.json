@@ -1,0 +1,7 @@
+{
+  "id": "what_is_a_4_4_2",
+  "source": "Expert Patch",
+  "organization": "",
+  "question": "what is a 4 4 2 ?",
+  "content": "a \"4 4 2\" refers to Storm’s Vector Layout System, which uses three numbers to describe how the core is positioned relative to your PAP. Each number is measured in inches, and each one controls a different part of the ball’s motion.\n\n1) Pin‑to‑PAP Distance  “4”\nThis is the first number.\nA 4-inch pin‑to‑PAP puts the core in a strong position.\nIt maximizes flare potential and gives you a strong, continuous motion.\nThink of it as controlling how early and how strong the ball wants to hook.\n\n2) Mass Bias (PSA)‑to‑PAP Distance “4”\nThe second number.\nA 4-inch PSA‑to‑PAP is a medium‑strong PSA position\nIt influences how quickly the ball transitions from skid → hook → roll.\nAround 4\" gives you a balanced but strong midlane read.\n\n3) Pin Buffer “2”\nThe third number.\nThe pin buffer controls the vertical placement of the pin relative to your VAL.\nA 2-inch buffer means:\nFaster response to friction\nMore forward roll downlane\nThis typically creates a stronger, quicker motion off the spot compared to larger buffers."
+}
